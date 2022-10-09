@@ -3,7 +3,7 @@
 
 
 body {
-    text-align: right;
+    text-align: center;
     font-family: 'Marcellus', serif;
 }
 
@@ -15,7 +15,7 @@ about {
 header {
     text-align: center;
     font-family: 'Bershire Swash', cursive;
-    background-color: #051f3c;
+    background-color: #351260;
     color: #fff;
     padding: 10px;
     text-align: center;
@@ -28,8 +28,8 @@ h1 {
 
 #navbar {
     overflow: hidden;
-    background-color: #051f3c;
-    border-bottom: 10px solid #e3a14c;
+    background-color: #351260;
+    border-bottom: 10px solid #68e3d5;
 }
 
 #navbar a {
@@ -42,14 +42,14 @@ h1 {
 }
 
 #navbar a:hover {
-    background-color: #e3a14c;
-    color: #051f3c;
+    background-color: #68e3d5;
+    color: #351260;
 }
 
 img {
     width: 300px;
     height: 400px;
-    align-content: left
+    align-content: center
 }
 
 #container {
